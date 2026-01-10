@@ -18,7 +18,7 @@ This template will help you get started with your project. Please look through a
 
 Make sure you publish your project to github pages, and put the URL here: 
 
-[https://cosi116a-brandeis-infovis-fall23.github.io/cosi-116a-f24-final-project-7.github.io/](https://cosi116a-brandeis-infovis-fall23.github.io/cosi-116a-f24-final-project-7.github.io/)
+https://madisonsansone.github.io/interactive-data-visualization-cosi-116a/
 
 ### Github Pages
 

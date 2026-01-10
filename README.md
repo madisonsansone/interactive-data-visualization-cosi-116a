@@ -1,4 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/h8SwtrsU)
+## Project Context
+This project was completed as a group assignment for Information Visualization at Brandeis University.
+
+
+**My contributions included:**
+- Manipulated and aggregated multiple CDC datasets into synthesized JSON files
+- Brainstormed initial visualization ideas
+- Created mock-up visualizations on Figma
+- Wrote code for interactive visualizations of line and scatter plots
+- Synthesized findings and reflections in write-up
+
+
 # COSI 116A Final Project Template
 
 This template will help you get started with your project. Please look through all these materials so you know how to organize your project.
